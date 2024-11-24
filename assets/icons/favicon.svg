@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2085663103</title>
+    <defs>
+        <linearGradient x1="54.7435846%" y1="-11.6661913%" x2="50.1120078%" y2="98.7872686%" id="linearGradient-1">
+            <stop stop-color="#BDFFAF" offset="0%"></stop>
+            <stop stop-color="#93E882" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.7436747%" y1="-11.779091%" x2="50.1120872%" y2="98.8766351%" id="linearGradient-2">
+            <stop stop-color="#BDFFAF" offset="0%"></stop>
+            <stop stop-color="#93E882" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.7435886%" y1="-11.9183029%" x2="50.1119491%" y2="98.986962%" id="linearGradient-3">
+            <stop stop-color="#BDFFAF" offset="0%"></stop>
+            <stop stop-color="#93E882" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2085663103" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#0051BA" x="0" y="0" width="1024" height="1024" rx="36"></rect>
+            <g id="Group" opacity="0.1" transform="translate(63.000000, 68.000000)">
+                <ellipse id="Oval" fill="url(#linearGradient-1)" opacity="0.4" cx="449" cy="443.5" rx="449" ry="443.5"></ellipse>
+                <ellipse id="Oval" fill="url(#linearGradient-2)" opacity="0.7" cx="448.5" cy="444" rx="308.5" ry="305"></ellipse>
+                <ellipse id="Oval" fill="url(#linearGradient-3)" cx="448.5" cy="443.5" rx="195.5" ry="193.5"></ellipse>
+            </g>
+            <g id="Group-2" transform="translate(148.000000, 187.000000)" fill="#93E882">
+                <path d="M301.651888,32.9475426 L38.9444387,276.810738 C14.0873295,299.883652 0,331.996266 0,365.602118 C0,473.259658 131.476294,528.284623 210.492812,453.670963 L471.059379,207.591997 C550.762287,132.320029 496.537508,0 385.979754,0 C354.618286,0 324.449829,11.7853296 301.651888,32.9475426 Z" id="Path"></path>
+                <path d="M609.111723,650 C686.147168,650 750.9986,585.68853 720.148683,515.779164 L720.148683,515.779164 C701.385305,473.231931 673.865684,434.561402 639.165618,401.987433 C604.481799,369.429551 563.299839,343.595579 517.95907,325.965421 L517.95907,325.965421 C442.743105,296.70515 375,364.137286 375,444.164691 L375,474.631405 C375,571.484671 454.293548,650 552.106794,650 L609.111723,650 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

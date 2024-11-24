@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="MAIN_PRIMARY_50">#E3EFFB</color>   <!-- 10% tint -->
+    <color name="MAIN_PRIMARY_100">#C7DFF7</color>  <!-- 20% tint -->
+    <color name="MAIN_PRIMARY_200">#90BFF0</color>  <!-- 40% tint -->
+    <color name="MAIN_PRIMARY_300">#619FEA</color>  <!-- 60% tint -->
+    <color name="MAIN_PRIMARY_400">#387FE3</color>  <!-- 80% tint -->
+    <color name="MAIN_PRIMARY_500_BASE">#2973FE</color>  <!-- Base color updated -->
+    <color name="MAIN_PRIMARY_600">#407ABF</color>  <!-- 20% shade -->
+    <color name="MAIN_PRIMARY_700">#326096</color>  <!-- 40% shade -->
+    <color name="MAIN_PRIMARY_800">#24466D</color>  <!-- 60% shade -->
+    <color name="MAIN_PRIMARY_900">#122335</color>  <!-- 80% shade -->
+
+
+    <color name="MAIN_BASE_BLACK">#101010</color>
+    <color name="BACKGROUND_COLOR">#F3F4F8</color>
+    <color name="BACKGROUND_COLOR">#F3F4F8</color>
+    <color name="WHITE">#FFFFFF</color>
+    <color name="BLACK">#000000</color>
+    <color name="BLUE">#3578FF</color>
+    <color name="SHADOW">#282864</color>
+    <color name="ICON">#D4D4D4</color>
+
+    <!-- Main Secondary Colors -->
+    <color name="MAIN_SECONDARY_50">#FBEBDD</color> <!-- 10% tint -->
+    <color name="MAIN_SECONDARY_100">#F7D7BB</color> <!-- 20% tint -->
+    <color name="MAIN_SECONDARY_200">#EFB277</color> <!-- 40% tint -->
+    <color name="MAIN_SECONDARY_300">#E78C33</color> <!-- 60% tint -->
+    <color name="MAIN_SECONDARY_400">#DF6700</color> <!-- 80% tint -->
+    <color name="MAIN_SECONDARY_500_BASE">#E57B00</color> <!-- Base color -->
+    <color name="MAIN_SECONDARY_600">#B16200</color> <!-- 20% shade -->
+    <color name="MAIN_SECONDARY_700">#8D4E00</color> <!-- 40% shade -->
+    <color name="MAIN_SECONDARY_800">#693900</color> <!-- 60% shade -->
+    <color name="MAIN_SECONDARY_900">#452500</color> <!-- 80% shade -->
+
+
+    <!-- Divider Colors -->
+    <color name="DIVIDER_50">#E6E6E6</color>
+    <color name="DIVIDER_100">#DBDBDB</color>
+    <color name="DIVIDER_200">#C8C8C8</color>
+
+    <!-- Alert Error Colors -->
+    <color name="ALERT_ERROR_50">#FDEBEC</color>
+    <color name="ALERT_ERROR_100">#FBD6D9</color>
+    <color name="ALERT_ERROR_200">#F7AEB3</color>
+    <color name="ALERT_ERROR_300">#F3858C</color>
+    <color name="ALERT_ERROR_400">#EF5D66</color>
+    <color name="ALERT_ERROR_500_BASE">#EB3440</color>
+    <color name="ALERT_ERROR_600">#BC2A33</color>
+    <color name="ALERT_ERROR_700">#8D1F26</color>
+    <color name="ALERT_ERROR_800">#5E151A</color>
+    <color name="ALERT_ERROR_900">#2F0A0D</color>
+
+    <!-- Gray Colors -->
+    <color name="GRAY_50">#F1F2F3</color>
+    <color name="GRAY_100">#E4E4E7</color>
+    <color name="GRAY_200">#C9C9CF</color>
+    <color name="GRAY_300">#ADAFB6</color>
+    <color name="GRAY_400">#92949E</color>
+    <color name="GRAY_500_BASE">#777986</color>
+    <color name="GRAY_600">#5F616B</color>
+    <color name="GRAY_700">#474950</color>
+    <color name="GRAY_800">#303036</color>
+    <color name="GRAY_900">#101223</color>
+
+    <!-- Icon Colors -->
+    <color name="ICON_PRIMARY">#262626</color>
+    <color name="ICON_SECONDARY">#949494</color>
+    <color name="ICON_TERTIARY">#A3A3A3</color>
+    <color name="ICON_DISABLED">#B8B8B8</color>
+    <color name="ICON_INVERT">#E6E6E6</color>
+
+    <!-- Info Colors -->
+    <color name="INFO_50">#EFF6FF</color>
+    <color name="INFO_100">#DBEAFE</color>
+    <color name="INFO_200">#BFDBFE</color>
+    <color name="INFO_300">#93C5FD</color>
+    <color name="INFO_400">#60A5FA</color>
+    <color name="INFO_500_BASE">#3B82F6</color>
+    <color name="INFO_600">#2563EB</color>
+    <color name="INFO_700">#1D4ED8</color>
+    <color name="INFO_800">#1E40AF</color>
+    <color name="INFO_900">#1E3A8A</color>
+
+    <!-- Alert Success Colors -->
+    <color name="ALERT_SUCCESS_50">#E4F5E8</color>
+    <color name="ALERT_SUCCESS_100">#CFEDD6</color>
+    <color name="ALERT_SUCCESS_200">#A5DBB2</color>
+    <color name="ALERT_SUCCESS_300">#7CCA8D</color>
+    <color name="ALERT_SUCCESS_400">#52B869</color>
+    <color name="ALERT_SUCCESS_500_BASE">#28A745</color>
+    <color name="ALERT_SUCCESS_600">#208637</color>
+    <color name="ALERT_SUCCESS_700">#186429</color>
+    <color name="ALERT_SUCCESS_800">#10431C</color>
+    <color name="ALERT_SUCCESS_900">#08210E</color>
+
+    <!-- Surface Colors -->
+    <color name="SURFACE_SURFACE1">#0057FF0D</color>
+    <color name="SURFACE_SURFACE2">#0057FF14</color>
+    <color name="SURFACE_SURFACE3">#0057FF1C</color>
+    <color name="SURFACE_SURFACE4">#0057FF1F</color>
+    <color name="SURFACE_SURFACE5">#0057FF24</color>
+
+    <!-- Text Colors -->
+    <color name="TEXT_PRIMARY">#262626</color>
+    <color name="TEXT_SECONDARY_LIGHT">#404040</color>
+    <color name="TEXT_TERTIARY_LIGHT">#737373</color>
+    <color name="TEXT_DISABLED">#A6A6A6</color>
+    <color name="TEXT_INVERT">#E6E6E6</color>
+    <color name="TEXT_INVERT">#E6E6E6</color>
+    <color name="FOREGROUND_SECONDARY">#71747A</color>
+
+    <!-- Alert Warning Colors -->
+    <color name="ALERT_WARNING_50">#FEF2E6</color>
+    <color name="ALERT_WARNING_100">#FEE6CD</color>
+    <color name="ALERT_WARNING_200">#FDCD9C</color>
+    <color name="ALERT_WARNING_300">#FBB46A</color>
+    <color name="ALERT_WARNING_400">#FA9B39</color>
+    <color name="ALERT_WARNING_500_BASE">#F98207</color>
+    <color name="ALERT_WARNING_600">#C76806</color>
+    <color name="ALERT_WARNING_700">#954E04</color>
+    <color name="ALERT_WARNING_800">#643403</color>
+    <color name="ALERT_WARNING_900">#321A01</color>
+
+    <!-- GRADIENT -->
+    <color name="gradient_start">#2952FF</color>
+    <color name="gradient_medium">#984EFE</color>
+    <color name="gradient_end">#E34EFF</color>
+
+    <color name="SHADOW">#1B1B1B</color>
+    <color name="BG_DISABLED">#DEDEDE</color>
+    <color name="BG_50">#F9F9FB</color>
+</resources>
